@@ -1,0 +1,4 @@
+name: "PlayerDeath"
+version: "${project.version}"
+main: "com.github.ta.playerdeath.PlayerDeath"
+api-version: "1.20"
